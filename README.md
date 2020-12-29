@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+
 🔭 I love C# - python - Russian and other things 😁.
   
 🌱 I’m currently learning Python. :D
