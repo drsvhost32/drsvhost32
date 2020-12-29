@@ -1,4 +1,4 @@
-#Hi there 👋
+Hi there 👋
 
 🔭 I love C# - python - Russian and other things 😁.
 
