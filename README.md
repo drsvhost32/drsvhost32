@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 
--🔭 I love C# - python - Russian and other things 😁.
+🔭 I love C# - python - Russian and other things 😁.
   
--🌱 I’m currently learning Python. :D
+🌱 I’m currently learning Python. :D
 
--🤔 I'm not working on any projects right now.
+🤔 I'm not working on any projects right now.
 
--📫 How to reach me:
+📫 How to reach me:
 
--✔️ Telegram: @TJN32 (it can be variable)
+✔️ Telegram: @TJN32 (it can be variable)
 
--✔️ Email: myprogrammingone@outlook.com
+✔️ Email: myprogrammingone@outlook.com
 
--Best wishes!😉
+Best wishes!😉
 
