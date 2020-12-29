@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 
 -🔭 I love C# - python - Russian and other things 😁.
   
@@ -14,4 +14,4 @@
 -✔️ Email: myprogrammingone@outlook.com
 
 -Best wishes!😉
--->
+
