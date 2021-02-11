@@ -12,7 +12,7 @@
 
 ✔️ Telegram: @beliver32 (it can be variable)
 
-✔️ Email: myprogrammingone@outlook.com
+✔️ Email: amir.m.movahedi@gmail.com
 
 Best wishes!😉
 
